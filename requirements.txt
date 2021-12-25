@@ -1,0 +1,57 @@
+# TensorFlow is much easier to install using Anaconda, especially
+# on Windows or when using a GPU. Please see the installation
+# instructions in INSTALL.md
+
+
+##### Core scientific packages
+jupyter
+matplotlib
+numpy
+pandas
+scipy
+
+##### Machine Learning packages
+scikit-learn
+
+# Optional: the XGBoost library is only used in chapter 7
+xgboost
+
+# Optional: the transformers library is only using in chapter 16
+transformers
+
+##### Image manipulation
+Pillow
+graphviz
+opencv-python
+pyglet
+
+pyvirtualdisplay # needed in chapter 16, if on a headless server
+                  # (i.e., without screen, e.g., Colab or VM)
+
+
+##### Additional utilities
+
+# Efficient jobs (caching, parallelism, persistence)
+joblib
+
+# Easy http requests
+requests
+
+# Nice utility to diff Jupyter Notebooks.
+nbdime
+
+# May be useful with Pandas for complex "where" clauses (e.g., Pandas
+# tutorial).
+numexpr
+
+# Optional: these libraries can be useful in the classification chapter,
+# exercise 4.
+nltk
+urlextract
+
+# Optional: these libraries are only used in chapter 16
+ftfy
+
+# Optional: tqdm displays nice progress bars, ipywidgets for tqdm's notebook support
+tqdm
+ipywidgets
