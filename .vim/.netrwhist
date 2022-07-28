@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/pranavchat14/workspace/license_plate_recognition/.github/workflows'
+let g:netrw_dirhist_6='/home/pranavchat14/workspace/license_plate_recognition/utils'
+let g:netrw_dirhist_5='/home/pranavchat14'
+let g:netrw_dirhist_4='/home/pranavchat14/workspace/license_plate_recognition/utils'
+let g:netrw_dirhist_3='/home/pranavchat14/workspace/license_plate_recognition'
+let g:netrw_dirhist_2='/home/pranavchat14/workspace/license_plate_recognition/utils'
+let g:netrw_dirhist_1='/home/pranavchat14/workspace/license_plate_recognition'
+let g:netrw_dirhist_0='/home/pranavchat14/workspace/license_plate_recognition/utils'
+let g:netrw_dirhist_9='/home/pranavchat14/workspace/license_plate_recognition'
+let g:netrw_dirhist_8='/home/pranavchat14/workspace/license_plate_recognition/utils'
